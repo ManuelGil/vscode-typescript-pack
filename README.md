@@ -26,11 +26,6 @@ TypeScript Essential Extension Pack is a collection of extensions for Visual Stu
 - [NestJS File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-generator)
 - [NestJS Snippets](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension)
 
-### Vue
-
-- [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=vue.vscode-typescript-vue-plugin)
-- [Vuejs Snippets](https://marketplace.visualstudio.com/items?itemName=devlos.vuejs-snippets)
-
 ### TypeScript
 
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
@@ -66,6 +61,7 @@ TypeScript Essential Extension Pack is a collection of extensions for Visual Stu
 
 ### Other
 
+- [Auto Barrel](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)
