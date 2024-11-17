@@ -1,7 +1,11 @@
 # TypeScript Essential Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-typescript-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-typescript-pack)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-typescript-pack)]()
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-typescript-pack?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-typescript-pack)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/imgildev.vscode-typescript-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-typescript-pack)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/imgildev.vscode-typescript-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-typescript-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/imgildev.vscode-typescript-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-typescript-pack&ssr=false#review-details)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-typescript-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-typescript-pack)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-typescript-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-typescript-pack/blob/main/LICENSE)
 
 TypeScript Essential Extension Pack is a collection of extensions for Visual Studio Code. It includes extensions for TypeScript, Angular, NestJS, Vue, NextJS, TailwindCSS, Markdown, Git, Code Style and more. It is a great starting point for TypeScript developers to get up and running with Visual Studio Code.
 
@@ -66,6 +70,7 @@ TypeScript Essential Extension Pack is a collection of extensions for Visual Stu
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
